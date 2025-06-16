@@ -1,6 +1,8 @@
 
 StockOptimizeAI es un sistema inteligente de optimización de stock diseñado específicamente para pequeños negocios. Utiliza Inteligencia Artificial (IA) y Machine Learning (ML) para predecir la demanda futura basándose en el historial de ventas, estacionalidad y promociones.
 
+Demo: https://stockoptimizeai.streamlit.app/
+
 # 🚀 StockOptimizeAI: Optimización de Inventario Inteligente para Pequeños Negocios
 
 ## 🤔 ¿Qué es StockOptimizeAI?
